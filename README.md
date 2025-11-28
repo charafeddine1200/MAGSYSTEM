@@ -1,0 +1,2 @@
+# MAGSYSTEM
+Docker test project
