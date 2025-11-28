@@ -1,4 +1,0 @@
-# MAGSYSTEM
-Docker test project
-
-
