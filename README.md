@@ -1,3 +1,4 @@
 # MAGSYSTEM
-This is my Docker test repository.
+Docker test project
+
 
